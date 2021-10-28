@@ -1,0 +1,4 @@
+>seqA
+aggttc-AT--CG
+>seqB
+agttgcATTGACC
